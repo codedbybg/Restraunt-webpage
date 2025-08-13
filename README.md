@@ -41,13 +41,13 @@ This project showcases a modern design with interactive features, smooth animati
    cd restaurant-website
 3. Open index.html in your browser to view the website.
 4. 🌐 Live Demo
-🔗 Live Project: Click Here (Replace with your live link)
+🔗 Live Project: ([click here](https://codedbybg.github.io/Restraunt-webpage/))
 
 
 💬 Connect With Me
-LinkedIn: Your Profile
+LinkedIn: https://www.linkedin.com/in/bhagwan-golhar-9681b8332/
 
-GitHub: Your Profile
+GitHub: https://github.com/codedbybg
 
-Email: your.email@example.com
+Email: bhagwangolhar6629@gmail.com
 
